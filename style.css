@@ -1,9 +1,5 @@
-h1{
-    background-color: black;
-    color: white;
-    text-align: center;
-   
-}
-p{
-    text-align: center;
+.leg{
+    background-color: rgb(165, 228, 48);
+    color: black;
+    padding: 0.2px;
 }
