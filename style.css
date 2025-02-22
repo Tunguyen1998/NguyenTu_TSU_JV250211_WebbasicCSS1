@@ -1,11 +1,5 @@
-th{
-    width: 500px;
-    height: 100px;
-    background-color: black;
-    color: white;
-    font-size: 25px;
-    text-align: center;
+.leg{
+    background-color: rgb(165, 228, 48);
+    color: black;
+    padding: 0.2px;
 }
-table,td{
-    background-color: rgb(226, 219, 219);
-    text-align: center;}
