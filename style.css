@@ -1,5 +1,30 @@
-.leg{
-    background-color: rgb(165, 228, 48);
-    color: black;
-    padding: 0.2px;
+.left {
+    float:left;
+    overflow: hidden;
+    background-color: #f7e4e4; 
+    width: 150px;
+    padding-bottom: 50%;
+    
+    
+}
+.left a {
+        float:none;
+        display:block;
+        color: #070707;
+        text-align:left;
+        padding-left:0%;
+        text-decoration: none;
+        
+      }
+.left a:hover {
+        background-color: orange;
+        color: white;
+      }
+      
+.right{
+    float:inline-start;
+    width: 250px;
+    padding: 20px;
+    text-align: left;
+
 }
