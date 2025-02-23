@@ -1,5 +1,49 @@
-.leg{
-    background-color: rgb(165, 228, 48);
-    color: black;
-    padding: 0.2px;
+div{
+  text-align: center;
+  line-height: 30px;
+  
+}
+.head{
+  color: white;
+  background-color: rgb(193, 154, 234);
+  padding: 0.2px;
+  width: 20%;
+  text-align:center;
+  margin-top: 1px;
+  margin-bottom: 10px;
+  margin-right: 200px;
+  margin-left: 300px;
+  
+}
+.body{
+  font-size:30px;
+}
+.body2{
+  color: red;
+}
+.foot input{
+  background-color:black;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 1px;
+  margin-bottom: 5px;
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 150px;
+  border-radius: .5rem;
+}
+.last{
+  text-align: left;
+  padding: 5px;
+  font-size: large;
+  margin-top: 1px;
+  margin-bottom: 5px;
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 150px;
+}
+.last input{
+  padding: 5px;
+  width: 700px;
 }
